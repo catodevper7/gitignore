@@ -1,4 +1,4 @@
-# A collection of `.gitignore` templates
+# Colección de extensiones a usar con .gitignore 
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
 We use this list to populate the `.gitignore` template choosers available
